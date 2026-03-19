@@ -8,7 +8,7 @@ library(circlize)
 library(viridis)
 
 # Data directory (input and output)
-base_dir <- "D:/Feature_Importance/"
+base_dir <- "D:/Feature_Importance_Data/"
 
 # Define seasons and their clustering parameters
 seasons <- list(
